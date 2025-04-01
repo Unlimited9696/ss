@@ -1,0 +1,13 @@
+Assistant checkpoint: Added requirements.txt for deployment
+
+Assistant generated file changes:
+- requirements.txt: Add Python dependencies for Vercel
+
+---
+
+User prompt:
+
+yes proceed
+
+Replit-Commit-Author: Assistant
+Replit-Commit-Session-Id: e3502d2e-c998-434c-9d73-72a275e6c761
